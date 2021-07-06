@@ -1,0 +1,125 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.orange-color{
+    color: orange;
+}
+p{
+    font-size:x-large;
+    color: #828282;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+h1{
+    color: #575757;
+    font-size: 60px;
+    
+}
+h2{
+    font-size: 40px;
+    color: #707070;
+}
+.button-link{
+    font-size: 15px;
+   text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    border-radius: 15px;
+    color: white;
+    box-shadow: 2px 3px 5px #4b4949;
+    padding: 8px 15px;
+}
+
+.container{
+    padding: 20px;
+    
+}
+.section-model{
+     display: flex;
+ }
+
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 60px;
+}
+
+.half-width img{
+    margin: 20px;
+   padding: 10px ;
+    width:50%;
+}
+
+
+
+.about-us{
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-position:cover ;
+}
+
+.recipe{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.recipe-model{
+    display: flex;
+    margin:30px;
+  
+    
+        
+}
+
+.recipe-iteam{
+    width: 30%;
+    margin: 21px;
+    padding: 17px;
+    border-radius: 7%;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+.recipe-iteam img{
+    width: 100%;
+    border-radius: 10%;
+    position:middel;
+}
+
+h3{
+    font-size: 30px;
+}
+
+
+.youtube{
+    box-shadow: none;
+    padding-left: 50px;
+
+    
+
+}
+
+.repar{
+    
+    display:flex;
+    width: 80%;
+    margin-left: 10%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+   
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding:40px;
+
+}
+
+
+
+
+
